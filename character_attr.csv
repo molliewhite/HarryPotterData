@@ -1,0 +1,26 @@
+index,name,yearOfBirth,house,ancestry,eyeColour,gender,hogwartsStaff,hogwartsStudent,species,alive,ch_m_id,ch_name,agg_abb,agg_name_id
+0,Harry Potter,1980,Gryffindor,half-blood,green,male,FALSE,TRUE,human,TRUE,39,Harry Potter,harr,1
+1,Hermione Granger,1979,Gryffindor,muggleborn,brown,female,FALSE,TRUE,human,TRUE,21,Hermione Granger,herm,2
+2,Ron Weasley,1980,Gryffindor,pure-blood,blue,male,FALSE,TRUE,human,TRUE,58,Ron Weasley,ronw,4
+3,Draco Malfoy,1980,Slytherin,pure-blood,grey,male,FALSE,TRUE,human,TRUE,32,Draco Malfoy,drac,7
+4,Minerva McGonagall,1925,Gryffindor,,,female,TRUE,FALSE,human,TRUE,36,Minerva McGonagall,mcgo,9
+5,Cedric Diggory,1977,Hufflepuff,,grey,male,FALSE,TRUE,human,FALSE,9,Cedric Diggory,cedr,49
+6,Cho Chang,,Ravenclaw,,brown,female,FALSE,TRUE,human,TRUE,3,Cho Chang,choc,16
+7,Severus Snape,1960,Slytherin,half-blood,black,male,TRUE,FALSE,human,FALSE,47,Severus Snape,snap,5
+8,Rubeus Hagrid,1928,Gryffindor,half-blood,black,male,TRUE,FALSE,half-giant,TRUE,22,Rubeus Hagrid,hagr,15
+9,Neville Longbottom,1980,Gryffindor,pure-blood,,male,FALSE,TRUE,human,TRUE,28,Neville Longbottom,nevi,8
+10,Luna Lovegood,1981,Ravenclaw,,grey,female,FALSE,TRUE,human,TRUE,29,Luna Lovegood,luna,59
+11,Ginny Weasley,1981,Gryffindor,pure-blood,brown,female,FALSE,TRUE,human,TRUE,55,Ginny Weasley,ginn,25
+12,Sirius Black,1959,Gryffindor,pure-blood,grey,male,FALSE,FALSE,human,FALSE,1,Sirius Black,siri,38
+13,Remus Lupin,1960,Gryffindor,half-blood,green,male,TRUE,FALSE,werewolf,FALSE,31,Remus Lupin,remu,37
+14,Arthur Weasley,1950,Gryffindor,pure-blood,blue,male,FALSE,FALSE,human,TRUE,50,Arthur Weasley,arth,27
+15,Bellatrix Lestrange,1951,Slytherin,pure-blood,brown,female,FALSE,FALSE,human,FALSE,25,Bellatrix Lestrange,bell,55
+16,Lord Voldemort,1926,Slytherin,half-blood,red,male,FALSE,FALSE,human,FALSE,45,Lord Voldemort,vold,3
+17,Horace Slughorn,,Slytherin,pure-blood,green,male,TRUE,FALSE,human,TRUE,,,slug,68
+18,Kingsley Shacklebolt,,,pure-blood,brown,male,FALSE,FALSE,human,TRUE,,,king,60
+19,Dolores Umbridge,,Slytherin,half-blood,brown,female,TRUE,FALSE,human,TRUE,49,Dolores Janes Umbridge,umbr,56
+20,Lucius Malfoy,1954,Slytherin,pure-blood,grey,male,FALSE,FALSE,human,TRUE,33,Lucius Malfoy,,
+21,Vincent Crabbe,,Slytherin,pure-blood,black,male,FALSE,TRUE,human,FALSE,5,Vincent Crabbe,crab,10
+22,Gregory Goyle,,Slytherin,pure-blood,,male,FALSE,TRUE,human,TRUE,20,Gregory Goyle,goyl,21
+23,Mrs Norris,,,,yellow,female,TRUE,FALSE,cat,TRUE,,,,
+24,Argus Filch,,,squib,,male,TRUE,FALSE,human,TRUE,15,Argus Filch,,
