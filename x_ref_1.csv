@@ -1,0 +1,66 @@
+id,name,agg_id_name,main_id
+0,Regulus Arcturus Black,,
+1,Sirius Black,38,12
+2,Lavender Brown,,
+3,Cho Chang,16,6
+4,Vincent Crabbe Sr.,,
+5,Vincent Crabbe,10,21
+6,"Bartemius ""Barty"" Crouch Sr.",,
+7,"Bartemius ""Barty"" Crouch Jr.",,
+8,Fleur Delacour,54,
+9,Cedric Diggory,49,5
+10,Alberforth Dumbledore,,
+11,Albus Dumbledore,6,
+12,Dudley Dursley,,
+13,Petunia Dursley,,
+14,Vernon Dursley,,
+15,Argus Filch,,24
+16,Seamus Finnigan,19,
+17,Nicolas Flamel,,
+18,Cornelius Fudge,,
+19,Goyle Sr.,,
+20,Gregory Goyle,21,22
+21,Hermione Granger,2,1
+22,Rubeus Hagrid,15,8
+23,Igor Karkaroff,,
+24,Viktor Krum,51,
+25,Bellatrix Lestrange,55,15
+26,Alice Longbottom,,
+27,Frank Longbottom,,
+28,Neville Longbottom,8,9
+29,Luna Lovegood,59,10
+30,Xenophilius Lovegood,,
+31,Remus Lupin,37,13
+32,Draco Malfoy,7,3
+33,Lucius Malfoy,,20
+34,Narcissa Malfoy,75,
+35,Olympe Maxime,,
+36,Minerva McGonagall,9,4
+37,"Alastor ""Mad-Eye"" Moody",53,
+38,Peter Pettigrew,39,
+39,Harry Potter,1,0
+40,James Potter,42,
+41,Lily Potter,,
+42,Quirinus Quirrell,13,
+43,Tom Riddle Sr.,,
+44,Mary Riddle,,
+45,Lord Voldemort,3,16
+46,Rita Skeeter,,
+47,Severus Snape,5,7
+48,Nymphadora Tonks,61,
+49,Dolores Janes Umbridge,56,19
+50,Arthur Weasley,27,14
+51,Bill Weasley,,
+52,Charlie Weasley,,
+53,Fred Weasley,11,
+54,George Weasley,12,
+55,Ginny Weasley,25,11
+56,Molly Weasley,57,
+57,Percy Weasley,18,
+58,Ron Weasley,4,2
+59,Dobby,26,
+60,Fluffy,20,
+61,Hedwig,,
+62,Moaning Myrtle,,
+63,Aragog,,
+64,Grawp,64,
