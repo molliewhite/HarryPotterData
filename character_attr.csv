@@ -1,4 +1,4 @@
-index,name,yearOfBirth,house,ancestry,eyeColour,gender,hogwartsStaff,hogwartsStudent,species,alive,ch_m_id,ch_name,agg_abb,agg_name_id
+attr_id,name,yearOfBirth,house,ancestry,eyeColour,gender,hogwartsStaff,hogwartsStudent,species,alive,main_id,main_name,agg_abb,agg_id
 0,Harry Potter,1980,Gryffindor,half-blood,green,male,FALSE,TRUE,human,TRUE,39,Harry Potter,harr,1
 1,Hermione Granger,1979,Gryffindor,muggleborn,brown,female,FALSE,TRUE,human,TRUE,21,Hermione Granger,herm,2
 2,Ron Weasley,1980,Gryffindor,pure-blood,blue,male,FALSE,TRUE,human,TRUE,58,Ron Weasley,ronw,4
